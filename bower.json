@@ -1,0 +1,25 @@
+{
+  "name": "react-quill",
+  "description": "The Quill rich-text editor as a React component.",
+  "main": "src/index.js",
+  "authors": [
+    "zenoamaro <zenoamaro@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "rich",
+    "text",
+    "rich-text",
+    "textarea"
+  ],
+  "homepage": "https://github.com/zenoamaro/react-quill",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
