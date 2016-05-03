@@ -1,12 +1,7 @@
 {
   "name": "react-quill",
   "description": "The Quill rich-text editor as a React component.",
-  "main": [
-    "dist/react-quill.js",
-    "dist/react-quill.js.map",
-    "dist/quill.base.css",
-    "dist/quill.snow.css"
-  ],
+  "main": "src/index.js",
   "authors": [
     "zenoamaro <zenoamaro@gmail.com>"
   ],
@@ -23,7 +18,6 @@
   "ignore": [
     "demo",
     "test",
-    "src",
     "**/.*",
     "CHANGELOG.md",
     "LICENSE",
